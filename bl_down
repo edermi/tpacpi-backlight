@@ -1,0 +1,2 @@
+event=video/brightnessdown
+action=/usr/bin/xbacklight -dec 5 -step 5 -time 50
